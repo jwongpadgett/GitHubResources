@@ -1,2 +1,18 @@
 Instruction Set
 
+# New User
+1. Create Github Account if you don't have one.
+2. Request Collaboration privileges from UCSF Vision Research repositories by submitting an issue on it's github page.
+3. Once you have become a collaborator, use the QuickStart Guides (There is currently a commandline and Github Desktop) to set up git and clone the repository.
+
+# Collaborations
+1. At the beginning of every work day, make sure your master is synced with the remote repository.
+2. Create a new branch for any features you work on.
+
+# Creating a new project
+
+# Making Suggestions
+
+# Repo Organization
+
+# Conflict Resolution

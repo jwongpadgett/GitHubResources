@@ -1,39 +1,6 @@
-Instruction Set
+Planning doc
 
-# New User
-1. Create Github Account if you don't have one.
-2. Request Collaboration privileges from UCSF Vision Research repositories by submitting an issue on it's github page.
-3. Once you have become a collaborator, use the QuickStart Guides (There is currently a commandline and Github Desktop) to set up git and clone the repository.
-
-# Collaborations
-1. At the beginning of every work day, make sure your master is synced with the remote repository.
-2. Create a new branch for any features you work on.
-3. Make changes, add and commit.
-  3b. Push into your remote dev branch at any time.
-4. When you are ready to finalize changes into master. Pull from master.
-5. Merge dev branch into master.
-6. Push changes into remote.
-7. Pull request with upstream (owner).
-
-# Creating a new project
-1. Create directory if you haven't already.
-2. Initialize git for this directory.
-  -DO NOT have nested git directories. If you want to add files use git add <dir>
-
-# Making Suggestions
-1. Github Projects
-2. Github Issues
-
-# Repo Organization
-All repositories of UCSF Vision Research are forked from owner's Github accounts. Collaborators should request to work from UCSF Vision Research Repositories. After merging any dev branches, submit a pull request with the upstream owner as well.
-
-# Conflict Resolution
-To minimize conflicts, please pull from origin often. Work from dev branches until ready to merge. Pull and resolve conflicts before pushing to remote.
-
-# Owners
-Keep track of pull requests. If something needs to be reverted from UCSF Vision Research Repository, please let itmod know.
-
-
+Instruction Set > GenericGuidelines.txt, GitHub for UCSF Vision Research.doc
 
 Finished First Run Through.
 GitHubDoc -Generic Instructions
@@ -41,7 +8,7 @@ GitHubDoc -GitHub Desktop Instructions
 
 To Do
 Hands on practice
-Git Commandline or not?
-Git Advanced or not?
-Confirm Licensing.
-Survey: Offering SWC like workshops for git?
+Git Commandline or not? The software carpentry workshop went pretty smoothly.
+Git Advanced or not? (Only if commandline is okay)
+Confirm Licensing. Luca used GNU, shall this be required for all or let the Creator choose?
+Survey: Offering SWC like workshops/trainings for git regularly? For new users? Pop up sessions?

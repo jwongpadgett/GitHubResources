@@ -1,5 +1,5 @@
 Instruction Set
-Testing a Conflict
+
 # New User
 1. Create Github Account if you don't have one.
 2. Request Collaboration privileges from UCSF Vision Research repositories by submitting an issue on it's github page.
@@ -32,3 +32,16 @@ To minimize conflicts, please pull from origin often. Work from dev branches unt
 
 # Owners
 Keep track of pull requests. If something needs to be reverted from UCSF Vision Research Repository, please let itmod know.
+
+
+
+Finished First Run Through.
+GitHubDoc -Generic Instructions
+GitHubDoc -GitHub Desktop Instructions
+
+To Do
+Hands on practice
+Git Commandline or not?
+Git Advanced or not?
+Confirm Licensing.
+Survey: Offering SWC like workshops for git?

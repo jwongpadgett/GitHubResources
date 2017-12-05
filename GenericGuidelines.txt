@@ -1,0 +1,53 @@
+GitHub for UCSF Vision Research
+
+Contact: VisionResearch@ucsf.edu (Jessica Wong, Research Programmer)
+Github: www.github.com/UCSFVisionResearch
+
+
+UCSF Vision Research’s Data Vault is housed inside GitHub. Using git, we can version control and collaborate seamlessly. Please follow these guidelines on contributing to the Data Vault. There are many methods to utilize git (commandline, Github Desktop, gitk, etc), feel free to choose one, but do follow our contribution guidelines. For beginners, there is a guide on using Github Desktop. If you’d like a walkthrough on Github Desktop or git shell, email VisionResearch.
+
+The way Data Vault is set up, the creator of the code is foremost upstream. UCSF Vision Research is a compilation of forked repositories (unless requested otherwise by creator to be the host).
+
+•	Those who wish to collaborate must have their own GitHub account and request to become a collaborator to UCSF Vision Research’s repository.
+•	Do not fork from UCSF Vision Research. Request to be a collaborator and clone. This is to simplify the way to contribute to code and less copies out there to work from.
+•	Feel free to work in branches on your computer or the remote, but when you are happy with your contribution, merge with master and push onto UCSF Vision Research’s repository. I recommend branches for long developments and just working on local master for short features.
+•	Submit a pull request to the creator’s repository after contributing any changes.
+•	Remember to pull frequently as to avoid creating conflicts. If you cannot resolve conflicts, please let UCSF Vision Research know.
+•	If you just want to use code, you are free to download from Github.
+•	Creators, please submit pull requests to UCSF Vision research when you have made any changes to your repository.
+
+Generic Instructions
+
+GitHub User Set Up
+1)	Sign up as a Github User. The free plan is fine. If you are a student, you can request the Student Pack to create private repositories and get a bunch of other tools.
+2)	Request Collaboration, either by submitting a new issue (make a note that you would like to be a collaborator) or email VisionResearch with your Github username.
+3)	Using your method of choice, clone UCSF Vision Research’s repository to your local machine.
+4)	You can now make edits to your local repository and once collaboration is approved, you can add UCSF Vision Research as the remote origin.
+5)	To ensure everything is set up correctly, make a change on a document called testGit.txt. If the file does not exist, create one.
+
+
+Making Changes and Submitting (Workflow)
+1)	Make sure you have the latest version by pulling from remote.
+2)	Make your changes.
+a.	Be sure to leverage to power of git on your local repository by adding and committing often.
+b.	Leave useful messages to indicate what kind of changes were made.
+3)	Push your changes to the remote origin.
+a.	No Conflict: Everything went through fine, proceed to 4)
+b.	Conflict: Go to Conflict Resolution
+4)	Submit a Pull Request so that Creator can accept your changes into their original code..
+
+Conflict Resolution
+1)	Pull from the remote.
+2)	Resolve all files with conflicts.
+3)	Push your changes to the remote origin.
+a.	No Conflict: Proceed to 4)
+b.	Conflict: Try Conflict Resolution again. If you cannot resolve conflict, please contact UCSF Vision Research or Creator of code for further instruction/troubleshooting.
+4)	Submit a Pull Request so that Creator can accept your changes into their original code.
+
+Creating a New Project
+1)	Initialize the repository.
+2)	Publish local repository onto Github.
+3)	On the Description page
+a.	List yourself as the creator.
+b.	Provide a good description of your code, use as many keywords as you can so it may be searchable.
+4)	Email VisionResearch to have your repository forked onto UCSF Vision Research Github.

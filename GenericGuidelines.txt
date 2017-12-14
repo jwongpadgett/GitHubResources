@@ -4,9 +4,9 @@ Contact: VisionResearch@ucsf.edu (Jessica Wong, Research Programmer)
 Github: www.github.com/UCSFVisionResearch
 
 
-UCSF Vision Research’s Data Vault is housed inside GitHub. Using git, we can version control and collaborate seamlessly. Please follow these guidelines on contributing to the Data Vault. There are many methods to utilize git (commandline, Github Desktop, gitk, etc), feel free to choose one, but do follow our contribution guidelines. For beginners, there is a guide on using Github Desktop. If you’d like a walkthrough on Github Desktop or git shell, email VisionResearch.
+UCSF Vision Research’s Code Vault is housed inside GitHub. Using git, we can version control and collaborate seamlessly. Please follow these guidelines on contributing to the Code Vault. There are many methods to utilize git (commandline, Github Desktop, gitk, etc), feel free to choose one, but do follow our contribution guidelines. For beginners, there is a guide on using Github Desktop. If you’d like a walkthrough on Github Desktop or git shell, email VisionResearch.
 
-The way Data Vault is set up, the creator of the code is foremost upstream. UCSF Vision Research is a compilation of forked repositories (unless requested otherwise by creator to be the host).
+The way Code Vault is set up, the creator of the code is foremost upstream. UCSF Vision Research is a compilation of forked repositories (unless requested otherwise by creator to be the host).
 
 •	Those who wish to collaborate must have their own GitHub account and request to become a collaborator to UCSF Vision Research’s repository.
 •	Do not fork from UCSF Vision Research. Request to be a collaborator and clone. This is to simplify the way to contribute to code and less copies out there to work from.

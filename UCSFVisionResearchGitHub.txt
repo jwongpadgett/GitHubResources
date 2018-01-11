@@ -8,7 +8,9 @@ GitHubDoc -GitHub Desktop Instructions
 
 To Do
 Hands on practice
-Git Commandline or not? The software carpentry workshop went pretty smoothly.
-Git Advanced or not? (Only if commandline is okay)
-Confirm Licensing. Luca used GNU, shall this be required for all or let the Creator choose?
-Survey: Offering SWC like workshops/trainings for git regularly? For new users? Pop up sessions?
+Git Commandline or not?
+Git Advanced or not?
+Confirm Licensing.
+Survey: Offering SWC like workshops for git?
+
+testing change from matlab
